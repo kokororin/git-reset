@@ -1,0 +1,22 @@
+{
+  "name": "git-reset",
+  "version": "0.1.1",
+  "description": "Command for git resetting easily",
+  "bin": "index.sh",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kokororin/git-reset.git"
+  },
+  "keywords": [
+    "git"
+  ],
+  "author": "kokororin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kokororin/git-reset/issues"
+  },
+  "homepage": "https://github.com/kokororin/git-reset#readme"
+}
